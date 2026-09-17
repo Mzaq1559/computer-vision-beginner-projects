@@ -299,6 +299,10 @@ If you want to contribute:
 
 - GitHub: [@Mzaq1559](https://github.com/Mzaq1559)
 
+## Development Note
+
+This repository was created and expanded with assistance from OpenAI's ChatGPT for project ideas, documentation, and implementation guidance.
+
 ## License
 
 This project is intended as an educational learning repository. A formal open-source license can be added when the repository's licensing terms are finalized.
